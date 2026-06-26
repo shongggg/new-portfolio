@@ -8,7 +8,7 @@ export const metadata = {
   description: 'Portfolio of Therenz Jaromohom — Interface Designer and Logo Designer based in Cebu, Philippines.',
 };
 
-export default function RootLayout({ children }) {
+export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="en">
       <body style={{
