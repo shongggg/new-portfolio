@@ -1,36 +1,40 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Therenz Jaromohom — Portfolio
 
-## Getting Started
+My personal portfolio website built to showcase my work as an Interface Designer and Logo Designer based in Cebu, Philippines.
 
-First, run the development server:
+## ⚠️ Heads up
+
+This was fully vibe coded with the help of AI. No cap. I just had a vision, described what I wanted, and let it cook. The design is mine though — every layout, color, and decision came from my own Figma mockups.
+
+## What's inside
+
+- **Home** — big name energy, that's it
+- **Profile** — who I am, my tech stack, creative tools, and projects
+- **Experiences** — my freelance and internship timeline
+- **Services** — what I offer (Logo Design, UI/UX, Photography)
+- **Contact** — let's build something together
+
+## Built with
+
+- [Next.js 15](https://nextjs.org/) — React framework with file-based routing
+- [Tailwind CSS](https://tailwindcss.com/) — utility-first styling
+- [Framer Motion](https://www.framer.com/motion/) — animations and transitions
+- [Vercel](https://vercel.com/) — deployment
+
+## Running locally
 
 ```bash
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [http://localhost:3000](http://localhost:3000) and you're good.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Contact
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- Email: jaromohomrenze231@gmail.com
+- Location: Mandaue City, Cebu, Philippines
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Designed by me. Coded by vibes. ✌️
