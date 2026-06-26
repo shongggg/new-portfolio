@@ -13,7 +13,7 @@
   --text-muted: #888888;
   --border: rgba(255, 255, 255, 0.08);
   --accent: #ffffff;
-  --font: 'Space Grotesk', sans-serif;
+   --font: var(--font-space-grotesk), sans-serif;
 }
 
 html {
@@ -26,8 +26,11 @@ body {
   font-family: var(--font);
   min-height: 100vh;
   -webkit-font-smoothing: antialiased;
+  font-family: var(--font-space-grotesk), sans-serif;
 }
-
+* {
+  font-family: var(--font-space-grotesk), sans-serif;
+}
 a {
   color: inherit;
   text-decoration: none;
@@ -40,7 +43,7 @@ img {
 
 button {
   cursor: pointer;
-  font-family: var(--font);
+  font-family: var(--font-space-grotesk), sans-serif;
 }
 
 .service-card {
